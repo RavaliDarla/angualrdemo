@@ -5,9 +5,14 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "watch": "ng build --watch --configuration development",
+   "watch": "ng build --watch --configuration development",
     "test": "ng test",
+<<<<<<< HEAD
     "jest-coverage": "yarn run jest -- --coverage",
+=======
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+>>>>>>> 2ea7425fff2ba09c28b620883f524c714c1fd1de
     "sonar": "sonar-scanner"
   },
   "private": true,
